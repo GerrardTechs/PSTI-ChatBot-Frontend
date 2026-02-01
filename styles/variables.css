@@ -1,0 +1,20 @@
+/* src/styles/variables.css */
+:root {
+  /* Primary Colors */
+  --primary-blue: #2563eb;
+  --primary-dark: #1e40af;
+  --primary-light: #dbeafe;
+  
+  /* Neutral Colors */
+  --bg-primary: #f8fafc;
+  --bg-secondary: #ffffff;
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  --border-color: #e2e8f0;
+  
+  /* Chat Colors */
+  --user-bubble: #3b82f6;
+  --bot-bubble: #f1f5f9;
+  --accent-green: #10b981;
+  --accent-purple: #8b5cf6;
+}
